@@ -1,4 +1,4 @@
-# Snake Game (Tkinter-based)
+# Snake Game
 
 ## **Description**
 This is a simple text-based snake game built in Python. The game is rendered inside the terminal, with a snake represented as a growing line of dots (`.`) and food represented as single dots (`.`). The player controls the snake using keyboard inputs (`W`, `A`, `S`, `D` keys).
